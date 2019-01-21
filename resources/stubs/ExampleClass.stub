@@ -1,0 +1,13 @@
+<?php
+
+namespace ExampleNamespace;
+
+class ExampleClass
+{
+    protected $propertyName;
+
+    public function exampleMethodName()
+    {
+
+    }
+}
